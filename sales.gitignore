@@ -1,0 +1,16 @@
+[connections.gsheets]
+spreadsheet = https://docs.google.com/spreadsheets/d/10gfIaCd-eFg2VVQorN3NGrnYENCzafVluU0Sjd0nHdY/edit#gid=320815194
+
+{
+  "type": "service_account",
+  "project_id": "tutorial-sheets-425318",
+  "private_key_id": "b5d9663993b8941c74a77cb9eab16c6be6cec1d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD2O1BtWDH5mUGl\n0O8wkUoyDfzgMa06QZJmkk541HJ9D+mg4iF+aNju20/Ku98PqLbFWXRw2dPMH0N9\nvzDpScKf5rBxXwM4YUd7a1ElYVrGfZUZQo4gmxNh8kFDIZNGIXID8iTI0jqGvbNj\nrRntQJf7UMbKenYWEJqt6m5tVLutBEkN6cfU3otrQIQMOZ+qIZOxjvKfS/E3SHdH\nIKg+CR7XeqhGN/ylXy1mtxs+yAujbCtvDIIDC9/AlCRk7kU97aSxdwHmsRDw77Rg\nkGhj3nKofwRl1fLzkIWI0t7WGzTScXY35y2HlctK7eUNI8VrMTi8cBqyfLxa4/C+\n519nr29fAgMBAAECggEAFg2b7MnVuALXlAVRgZURrcf+RQojTLDAxE+y7YmBiN1F\npx4kXSZWKkEZirvRhPKEZB/YmPQ5eZ0Mi2pLSX73X8uRM/uMK0mIgG+igJQ78Bkh\nTcuIio0OawWqfgZiIrQuJQJT9GnidLJFgIDpbeFiJfpxw4K8/smVQPcFKuTy5ieW\nIGjvELoGmiO94fPlQQVMKa201Tzm5T+xdR74T27yLnSlVswuiWgcABvfW07m8vsC\nnTVKVu6s/LbV1Pz4B5eJS4fMKb6Ma6BNOGwXoQHSu6nQjwewbNWprHJ8LH6xdk5O\nq1dRNkFs5f/wB021zoV093CtHIXL+jb7y8FeByFxMQKBgQD9blLr3gD6eo2HcpG5\ntzRFJ69cytHRTTWHm6JAFacIap/EL1zuAridRcRCRrQCLmVHva7DmUIoD8vIU0ks\n3U8+m3BrvxtyNz5FCYd/tn9NRyDA03+jZa6cxw2Awl7E/Y+2bsw+t0PeryHMj18f\nmo9q/SwUipZJXPo42Gx8MPULGQKBgQD4uk663Iw2LBJth8Tr8Tdtm3wQk7FR2Itl\ngjda9ESIuFvHi90xuBDnyJAg7KPdaXxJfjnAusdSgOM7LVV/sG/WovBQKNUwBndK\nHsJPXpW/Y7MRrxUhqfdQ6sLiK6C6sBid4jo8+WfetMuV6jCHkNed4L9xO/d3R7Hz\nNlhEd0kVNwKBgA9r6zfXJpAXbQ1U93EpqNCcfZtT7DikTiGWYuUrbCKi+l3h0/HX\n0IwhdrPhwYpwcFFRRZU5ekEd1PS3vLgyL2RL6SdlVbI5klx5G/m1jUGSlnelZxr2\nUQ3RPw0axtGN7HTZgSw/0q12UsQz5UHzEc8c4NXPKR4FvmQ/JzrXb9HhAoGBAL2d\n+utFu7aIvru1p5Bf4muy/0/76FCHDy4hqWWzlpPMSFvF6qk+s9Sf+BDBluLyygeV\nLR4axl3FWHYCx42CyqAMs7vIhU4Jf+OHs4aiivLPZPJ0UV3Kn3qWnl+h9vSbzwh+\nMPvO/zqvBg2R7dFLwLThY9FFcBEFHUpXAc+gSJzdAoGAViWi19HxquThEtVGtobt\nzZ2yDGIqm0zS0C4aVtU4RjxraB1gQnlYZeaViANnH8w4i6oPTvFdAdfUDxop2G1g\nds4mgnnFCil2fs8W/wFF0bidKSoQzJf5x54Ka7Lr7Gufuzo51aIkl/rFggNjUmAa\ntndvfOO82l9ppjVnVt16vFg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-api@tutorial-sheets-425318.iam.gserviceaccount.com",
+  "client_id": "101555641301440393872",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-api%40tutorial-sheets-425318.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
